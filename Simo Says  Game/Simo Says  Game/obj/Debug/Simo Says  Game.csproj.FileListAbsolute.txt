@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\Simo Says  Game\Simo Says  Game\bin\Debug\Simo Says  Game.exe.config
+C:\Users\LENOVO\source\repos\Simo Says  Game\Simo Says  Game\bin\Debug\Simo Says  Game.exe
+C:\Users\LENOVO\source\repos\Simo Says  Game\Simo Says  Game\bin\Debug\Simo Says  Game.pdb
+C:\Users\LENOVO\source\repos\Simo Says  Game\Simo Says  Game\obj\Debug\Simo Says  Game.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Simo Says  Game\Simo Says  Game\obj\Debug\Simo_Says__Game.Form1.resources
+C:\Users\LENOVO\source\repos\Simo Says  Game\Simo Says  Game\obj\Debug\Simo_Says__Game.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Simo Says  Game\Simo Says  Game\obj\Debug\Simo Says  Game.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Simo Says  Game\Simo Says  Game\obj\Debug\Simo Says  Game.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Simo Says  Game\Simo Says  Game\obj\Debug\Simo Says  Game.exe
+C:\Users\LENOVO\source\repos\Simo Says  Game\Simo Says  Game\obj\Debug\Simo Says  Game.pdb
